@@ -53,85 +53,36 @@ data2$Recipient.Organization <- gsub(", Government of","",data2$Recipient.Organi
 unique(data2$Recipient.Organization)
 
 #Replace with special characters
-data2$Donor <- gsub("Ã¡","á",data2$Donor)
-data2$Donor <- gsub("Ã¢","â",data2$Donor)
-data2$Donor <- gsub("Ã¤","ä",data2$Donor)
-data2$Donor <- gsub("Ã©","é",data2$Donor)
-data2$Donor <- gsub("Ã«","ë",data2$Donor)
-data2$Donor <- gsub("Ã³","ó",data2$Donor)
-data2$Donor <- gsub("Ã´","ô",data2$Donor)
-data2$Donor <- gsub("Ã¶","ö",data2$Donor)
-data2$Donor <- gsub("Ãº","ú",data2$Donor)
-data2$Donor <- gsub("Ã¼","ü",data2$Donor)
-data2$Donor <- gsub("Äf","ã",data2$Donor)
-data2$Donor <- gsub("ÄT","ê",data2$Donor)
-data2$Donor <- gsub('Å"','ñ',data2$Donor)
-data2$Donor <- gsub("Å^","ò",data2$Donor)
-data2$Donor <- gsub("Å'","õ",data2$Donor)
-data2$Donor <- gsub("Å.","à",data2$Donor)
-data2$Donor <- gsub("Å>","o",data2$Donor)
-data2$Donor <- gsub("Å¯","ù",data2$Donor)
-data2$Donor <- gsub("Å±","û",data2$Donor)
-data2$Donor <- gsub("Ã¨","è",data2$Donor)
-data2$Donor <- gsub("Ã§","ç",data2$Donor)
-data2$Donor <- gsub("Ã¸","ø",data2$Donor)
-data2$Donor <- gsub('â???"','-',data2$Donor)
-data2$Donor <- gsub("â???T","'",data2$Donor)
-data2$Donor <- gsub("Ã®","î",data2$Donor)
-data2$Donor <- gsub("Ã±","ñ",data2$Donor)
-data2$Donor <- gsub("Ãª","ê",data2$Donor)
-data2$Donor <- gsub("Ã???","Ç",data2$Donor)
-data2$Donor <- gsub("Ã®","î",data2$Donor)
-data2$Donor <- gsub("Ã±","ñ",data2$Donor)
-data2$Donor <- gsub("â???T","'",data2$Donor)
-data2$Donor <- gsub('â???"','-',data2$Donor)
-data2$Donor <- gsub('Ã"','Ä',data2$Donor)
-data2$Donor <- gsub("Ã","í",data2$Donor)
-data2$Donor <- gsub("Ã¯","ï",data2$Donor)
-data2$Donor <- gsub("í£","ã",data2$Donor)
-data2$Donor <- gsub("í¯","ï",data2$Donor)
-data2$Donor <- gsub("í¦","æ",data2$Donor)
-data2$Donor <- gsub("í¥","å",data2$Donor)
+character_replacements = list(
+  c("Ã¡","á"), c("Ã¢","â"), c("Ã¤","ä"),
+  c("Ã©","é"), c("Ã«","ë"), c("Ã³","ó"),
+  c("Ã´","ô"), c("Ã¶","ö"), c("Ãº","ú"),
+  c("Ã¼","ü"), c("Äf","ã"), c("ÄT","ê"),
+  c('Å"','ñ'), c("Å^","ò"), c("Å'","õ"),
+  c("Å.","à"), c("Å>","o"), c("Å¯","ù"),
+  c("Å±","û"), c("Ã¨","è"), c("Ã§","ç"),
+  c("Ã¸","ø"), c('â???"','-'), c("â???T","'"),
+  c("Ã®","î"), c("Ã±","ñ"), c("Ãª","ê"),
+  c("Ã???","Ç"), c("Ã®","î"), c("Ã±","ñ"),
+  c("â???T","'"), c('â???"','-'), c('Ã"','Ä'),
+  c("Ã","í"), c("Ã¯","ï"), c("í£","ã"),
+  c("í¯","ï"), c("í¦","æ"), c("í¥","å")
+)
 
-data2$Recipient.Organization <- gsub("Ã¡","á",data2$Recipient.Organization)
-data2$Recipient.Organization <- gsub("Ã¢","â",data2$Recipient.Organization)
-data2$Recipient.Organization <- gsub("Ã¤","ä",data2$Recipient.Organization)
-data2$Recipient.Organization <- gsub("Ã©","é",data2$Recipient.Organization)
-data2$Recipient.Organization <- gsub("Ã«","ë",data2$Recipient.Organization)
-data2$Recipient.Organization <- gsub("Ã³","ó",data2$Recipient.Organization)
-data2$Recipient.Organization <- gsub("Ã´","ô",data2$Recipient.Organization)
-data2$Recipient.Organization <- gsub("Ã¶","ö",data2$Recipient.Organization)
-data2$Recipient.Organization <- gsub("Ãº","ú",data2$Recipient.Organization)
-data2$Recipient.Organization <- gsub("Ã¼","ü",data2$Recipient.Organization)
-data2$Recipient.Organization <- gsub("Äf","ã",data2$Recipient.Organization)
-data2$Recipient.Organization <- gsub("ÄT","ê",data2$Recipient.Organization)
-data2$Recipient.Organization <- gsub('Å"','ñ',data2$Recipient.Organization)
-data2$Recipient.Organization <- gsub("Å^","ò",data2$Recipient.Organization)
-data2$Recipient.Organization <- gsub("Å'","õ",data2$Recipient.Organization)
-data2$Recipient.Organization <- gsub("Å.","à",data2$Recipient.Organization)
-data2$Recipient.Organization <- gsub("Å>","o",data2$Recipient.Organization)
-data2$Recipient.Organization <- gsub("Å¯","ù",data2$Recipient.Organization)
-data2$Recipient.Organization <- gsub("Å±","û",data2$Recipient.Organization)
-data2$Recipient.Organization <- gsub("Ã¨","è",data2$Recipient.Organization)
-data2$Recipient.Organization <- gsub("Ã§","ç",data2$Recipient.Organization)
-data2$Recipient.Organization <- gsub("Ã¸","ø",data2$Recipient.Organization)
-data2$Recipient.Organization <- gsub('â???"','-',data2$Recipient.Organization)
-data2$Recipient.Organization <- gsub("â???T","'",data2$Recipient.Organization)
-data2$Recipient.Organization <- gsub("Ã®","î",data2$Recipient.Organization)
-data2$Recipient.Organization <- gsub("Ã±","ñ",data2$Recipient.Organization)
-data2$Recipient.Organization <- gsub("Ãª","ê",data2$Recipient.Organization)
-data2$Recipient.Organization <- gsub("Ã???","Ç",data2$Recipient.Organization)
-data2$Recipient.Organization <- gsub("Ã®","î",data2$Recipient.Organization)
-data2$Recipient.Organization <- gsub("Ã±","ñ",data2$Recipient.Organization)
-data2$Recipient.Organization <- gsub("â???T","'",data2$Recipient.Organization)
-data2$Recipient.Organization <- gsub('â???"','-',data2$Recipient.Organization)
-data2$Recipient.Organization <- gsub('Ã"','Ä',data2$Recipient.Organization)
-data2$Recipient.Organization <- gsub("Ã","í",data2$Recipient.Organization)
-data2$Recipient.Organization <- gsub("Ã¯","ï",data2$Recipient.Organization)
-data2$Recipient.Organization <- gsub("í£","ã",data2$Recipient.Organization)
-data2$Recipient.Organization <- gsub("í¯","ï",data2$Recipient.Organization)
-data2$Recipient.Organization <- gsub("í¦","æ",data2$Recipient.Organization)
-data2$Recipient.Organization <- gsub("í¥","å",data2$Recipient.Organization)
+for(character_replacement in character_replacements){
+  from_character = character_replacement[1]
+  to_character = character_replacement[2]
+  data2$Donor <- gsub(
+    from_character,
+    to_character,
+    data2$Donor
+  )
+  data2$Recipient.Organization <- gsub(
+    from_character,
+    to_character,
+    data2$Recipient.Organization
+  )
+}
 
 #Merge to create new column "codename", "recipientcodename1", "incomegroups" and "odaeligible" based on donor type
 codenames <- read.csv("Previous year_coding lists/codename.csv",na.strings="",as.is=TRUE)
