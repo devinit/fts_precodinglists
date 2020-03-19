@@ -1,4 +1,4 @@
-list.of.packages <- c("dplyr","readxl","stringr","data.table")
+list.of.packages <- c("dplyr","readxl","stringr","data.table","plyr")
 new.packages <- list.of.packages[!(list.of.packages %in% installed.packages()[,"Package"])]
 if(length(new.packages)) install.packages(new.packages)
 lapply(list.of.packages, require, character.only=T)
@@ -45,9 +45,6 @@ if("destination_Location_name" %in% names(data2)){
 lowerConv <- function(x){
   return(tolower(iconv(x,"latin1","latin1")))
 }
-
-install.packages("plyr")
-library(plyr)
 
 # Remove government of
 data2$Donor <- gsub(", Government of","",data2$Donor)
@@ -159,7 +156,6 @@ incomegroups2 <- subset(data2, data2$incomegroup %in% NA, select = c(Destination
 odaeligible2 <- subset(data2, data2$ODA.eligible %in% NA, select = c(Destination.Country, ODA.eligible))
 
 #Removing repeated rows in the codename2, privatemoney2 and dacregion2
-library(dplyr)
 
 codenames2 <- distinct(codenames2,Donor, .keep_all = TRUE)
 codenamesfinal <- subset(codenames2, select = c (1,2))
