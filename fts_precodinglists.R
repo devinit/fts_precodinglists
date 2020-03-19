@@ -1,11 +1,7 @@
-install.packages("dplyr")
-install.packages("readxl")
-install.packages("stringr")
-install.packages("data.table")
-library(dplyr)
-library(readxl)
-library(stringr)
-library(data.table)
+list.of.packages <- c("dplyr","readxl","stringr","data.table")
+new.packages <- list.of.packages[!(list.of.packages %in% installed.packages()[,"Package"])]
+if(length(new.packages)) install.packages(new.packages)
+lapply(list.of.packages, require, character.only=T)
 
 wd <- "C:/Users/danielem/FTS API R"
 setwd(wd)
