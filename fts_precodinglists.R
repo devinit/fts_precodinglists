@@ -13,28 +13,18 @@ names(data) <- make.names(names(data))
 data2 <- subset(data, data$status %in% c('paid','commitment'))
 
 #removing columns that will not be used
-data2$createdAt <- NULL
-data2$date <- NULL
-data2$decisionDate <- NULL
-data2$firstReportedDate <- NULL
-data2$updatedAt <- NULL
-data2$versionId <- NULL
-data2$refCode <- NULL
-data2$source_Organization_id <- NULL
-data2$source_Location_id <- NULL
-data2$source_UsageYear_id <- NULL
-data2$destination_Organization_id <- NULL
-data2$destination_GlobalCluster_id <- NULL
-data2$destination_Location_id <- NULL
-data2$destination_UsageYear_id <- NULL
-data2$destination_Plan_id <- NULL
-data2$destination_Project_id <- NULL
-data2$destination_Plan_id <- NULL
-data2$destination_Cluster_id <- NULL
-data2$destination_Emergency_id <- NULL
-data2$source_Emergency_id <- NULL
-data2$source_GlobalCluster_id <- NULL
-data2$source_Cluster_id <- NULL
+columns_to_remove = c(
+  "createdAt", "date", "decisionDate",
+  "firstReportedDate", "updatedAt", "versionId",
+  "refCode", "source_Organization_id", "source_Location_id",
+  "source_UsageYear_id", "destination_Organization_id", "destination_GlobalCluster_id",
+  "destination_Location_id", "destination_UsageYear_id", "destination_Plan_id",
+  "destination_Project_id", "destination_Plan_id", "destination_Cluster_id",
+  "destination_Emergency_id", "source_Emergency_id", "source_GlobalCluster_id",
+  "source_Cluster_id"
+)
+
+data2[,columns_to_remove] <- NULL
 
 #changing FTS column headers to allign with the code
 if("source_Organization_name" %in% names(data2)){
