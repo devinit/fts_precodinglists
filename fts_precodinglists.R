@@ -3,7 +3,7 @@ new.packages <- list.of.packages[!(list.of.packages %in% installed.packages()[,"
 if(length(new.packages)) install.packages(new.packages)
 lapply(list.of.packages, require, character.only=T)
 
-wd <- "C:/Users/danielem/FTS API R"
+wd <- wd <- "S:/Projects/GHA/Phase IV/Projects/P0342 GHA Report 2019/4. Project Content/Research and analysis/Data working files/Scoping/Coding/R script/FTS API R"
 setwd(wd)
 
 data <- read.csv("all.csv")
@@ -13,18 +13,7 @@ names(data) <- make.names(names(data))
 data2 <- subset(data, data$status %in% c('paid','commitment'))
 
 #removing columns that will not be used
-columns_to_remove = c(
-  "createdAt", "date", "decisionDate",
-  "firstReportedDate", "updatedAt", "versionId",
-  "refCode", "source_Organization_id", "source_Location_id",
-  "source_UsageYear_id", "destination_Organization_id", "destination_GlobalCluster_id",
-  "destination_Location_id", "destination_UsageYear_id", "destination_Plan_id",
-  "destination_Project_id", "destination_Plan_id", "destination_Cluster_id",
-  "destination_Emergency_id", "source_Emergency_id", "source_GlobalCluster_id",
-  "source_Cluster_id"
-)
-
-data2[,columns_to_remove] <- NULL
+data <- subset(data, select = c("id","amountUSD","budgetYear","description","flowType","newMoney","originalAmount","originalCurrency","method","status","boundary","onBoundary","source_Organization_name","source_Location_name","source_UsageYear_name","destination_Organization_name","destination_GlobalCluster_name","destination_Location_name","destination_UsageYear_name","destination_Plan_name","destination_Project_name","parentFlowId","grandBargainEarmarkingType","source_Plan_id","source_Plan_name","destination_Cluster_name","destination_Emergency_name","exchangeRate","source_Emergency_name","source_GlobalCluster_name"))
 
 #changing FTS column headers to allign with the code
 if("source_Organization_name" %in% names(data2)){
