@@ -1,0 +1,470 @@
+Destination.Country,incomegroups
+Curaçao,high
+Greece,high
+Switzerland,high
+"Venezuela, Bolivarian Republic of",high
+"Taiwan, Province of China",high
+"Korea, Republic of",high
+Uruguay,high
+Italy,high
+Israel,high
+Croatia,high
+Canada,high
+Netherlands,high
+Portugal,high
+Bahamas,high
+Malta,high
+Belgium,high
+United Arab Emirates,high
+Slovenia,high
+Denmark,high
+Chile,high
+Antigua and Barbuda,high
+Argentina,high
+Russian Federation,high
+Germany,high
+Ireland,high
+Anguilla (United Kingdom) | Antigua and Barbuda | Saint Barth�lemy (France),high
+Barbados,high
+Sint Maarten (Dutch part),high
+Antigua and Barbuda | Bahamas | Sint Maarten (Dutch part),high
+Saint Martin (France),high
+Saint Kitts and Nevis,high
+Antigua and Barbuda | Bahamas | Saint Kitts and Nevis | Sint Maarten (Dutch part),high
+"Anguilla (United Kingdom) | Antigua and Barbuda | Bahamas | Saint Barth�lemy (France) | Saint Kitts and Nevis | Saint Martin (France) | Sint Maarten (Dutch part) | Turks and Caicos Islands | Virgin Islands, British",high
+Antigua and Barbuda | Saint Kitts and Nevis,high
+Puerto Rico (United States),high
+Sweden,high
+Qatar,high
+United States,high
+Poland,high
+Trinidad and Tobago,high
+Japan,high
+Anguilla (United Kingdom),High
+Estonia,high
+Aruba,high
+Andorra,high
+Australia,high
+Austria,high
+Bahrain,high
+Bermuda,high
+Brunei Darussalam,high
+Cayman Islands,high
+Channel Islands,high
+Curacao,high
+Cyprus,high
+Czech Republic,high
+Equatorial Guinea,high
+Faeroe Islands,high
+Finland,high
+France,high
+French Polynesia,high
+Greenland,high
+Guam,high
+Hong Kong Special Administrative Region of the People's Republic of China,high
+Hungary,high
+Iceland,high
+Isle of Man,high
+Kuwait,high
+Latvia,high
+Liechtenstein,high
+Lithuania,high
+Luxembourg,high
+"Macao SAR, China",high
+Monaco,high
+New Caledonia,high
+New Zealand,high
+Northern Mariana Islands,high
+Norway,high
+Oman,high
+Puerto Rico,high
+San Marino,high
+Saudi Arabia (Kingdom of),high
+Seychelles,high
+Singapore,high
+Slovakia,high
+Spain,high
+St. Martin (French part),high
+Chinese Taipei,high
+Turks and Caicos Islands,high
+United Kingdom ,high
+United States of America,high
+Venezuela,high
+Virgin Islands (U.S.),high
+United Kingdom,high
+Saudi Arabia,high
+Montserrat,High
+"Saint Helena, Ascension and Tristan da Cunha",High
+Cura�ao,high
+Sierra Leone,low 
+Guinea,low 
+Somalia,low 
+Liberia,low 
+Ethiopia,low 
+Chad,low 
+Afghanistan,low 
+Mali,low 
+South Sudan,low 
+Central African Republic,low 
+Burkina Faso,low 
+Niger,low 
+Uganda,low 
+Haiti,low 
+Nepal,low 
+Malawi,low 
+Zimbabwe,low 
+"Congo, The Democratic Republic of the",low 
+Burundi,low 
+"Korea, Democratic People's Republic of",low 
+Madagascar,low 
+"Tanzania, United Republic of",low 
+Rwanda,low 
+Mozambique,low 
+Eritrea,low 
+Togo,low 
+Cambodia,low 
+Benin,low 
+Guinea-Bissau,low 
+Gambia,low 
+Comoros,low 
+Ethiopia | South Sudan | Uganda,low 
+"Congo, Democratic Republic of the",low 
+Afghanistan | Capital,low 
+Afghanistan | Capital | Central Highland | Eastern | North Eastern | Northern | South Eastern | Southern | Western,low 
+Côte d'Ivoire,lower middle
+São Tomé and Príncipe,lower middle
+Sudan,lower middle
+Syrian Arab Republic,lower middle
+Yemen,lower middle
+Cameroon,lower middle
+occupied Palestinian territory,lower middle
+Egypt,lower middle
+Ukraine,lower middle
+Kenya,lower middle
+India,lower middle
+Pakistan,lower middle
+Myanmar,lower middle
+C�te d'Ivoire,lower middle
+Nigeria,lower middle
+Indonesia,lower middle
+Mauritania,lower middle
+Lesotho,lower middle
+Georgia,lower middle
+Morocco,lower middle
+"Bolivia, Plurinational State of",lower middle
+Papua New Guinea,lower middle
+Vanuatu,lower middle
+Solomon Islands,lower middle
+Djibouti,lower middle
+Nicaragua,lower middle
+Tajikistan,lower middle
+Timor-Leste,lower middle
+Bangladesh,lower middle
+Philippines,lower middle
+Viet Nam,lower middle
+Zambia,lower middle
+Senegal,lower middle
+El Salvador,lower middle
+Honduras,lower middle
+Guatemala,lower middle
+Lao People's Democratic Republic,lower middle
+Uzbekistan,lower middle
+Armenia,lower middle
+Kyrgyzstan,lower middle
+Congo,lower middle
+Sri Lanka,lower middle
+"Micronesia, Federated States of",lower middle
+Bhutan,lower middle
+Cape Verde,lower middle
+Ghana,lower middle
+"Moldova, Republic of",lower middle
+Gaza Strip | West Bank | occupied Palestinian territory,lower middle
+Kiribati,lower middle
+Guyana,lower middle
+Samoa,lower middle
+Bolivia,lower middle
+"Congo, Republic of",lower middle
+Kosovo,lower middle
+Micronesia,lower middle
+Sao Tome and Principe,lower middle
+Swaziland,lower middle
+Timor Leste,lower middle
+"Palestinian territory, occupied",lower middle
+Guatemala | Honduras,lower middle
+S�o Tom� and Pr�ncipe,lower middle
+Eswatini,lower middle
+"North Macedonia, Republic of",upper middle
+Iraq,upper middle
+Lebanon,upper middle
+Jordan,upper middle
+Libya,upper middle
+"Iran, Islamic Republic of",upper middle
+Paraguay,upper middle
+Turkey,upper middle
+Algeria,upper middle
+Serbia,upper middle
+Colombia,upper middle
+Fiji,upper middle
+Dominica,upper middle
+Tunisia,upper middle
+Angola,upper middle
+Thailand,upper middle
+Mongolia,upper middle
+Kazakhstan,upper middle
+Albania,upper middle
+Costa Rica,upper middle
+Marshall Islands,upper middle
+Azerbaijan,upper middle
+Brazil,upper middle
+Ecuador,upper middle
+Cuba,upper middle
+Peru,upper middle
+Bosnia and Herzegovina,upper middle
+Palau,upper middle
+Panama,upper middle
+Malaysia,upper middle
+Belize,upper middle
+South Africa,upper middle
+Jamaica,upper middle
+Dominican Republic,upper middle
+China,upper middle
+Tonga,upper middle
+Saint Vincent and the Grenadines,upper middle
+Namibia,upper middle
+Bulgaria,upper middle
+Maldives,upper middle
+Jordan | Lebanon | Turkey,upper middle
+Mexico,upper middle
+Belarus,upper middle
+Montenegro,upper middle
+Jordan | Lebanon,upper middle
+Cuba | Dominica,upper middle
+Libya | Tunisia,upper middle
+American Samoa,upper middle
+Botswana,upper middle
+Gabon,upper middle
+Grenada,upper middle
+Former Yugoslav Republic of Macedonia,upper middle
+Mauritius,upper middle
+Romania,upper middle
+Saint Lucia,upper middle
+Suriname,upper middle
+Turkmenistan,upper middle
+Tuvalu,upper middle
+"Macedonia, The Former Yugoslav Republic of",upper middle
+Serbia and Montenegro (until 2006-2009),upper middle
+Angola | Zambia,no income group
+"Anguilla (United Kingdom) | Antigua and Barbuda | Bahamas | Bonaire, Saint Eustatius and Saba (The Netherlands) | Virgin Islands, British | Cuba | Dominica | Dominican Republic | Guadeloupe (France) | Haiti | Martinique (France) | Montserrat | Puerto Rico (United States) | Saint Barthélemy (France) | Saint Kitts and Nevis | Saint Lucia | Saint Martin (France) | Sint Maarten (Dutch part) | Saint Vincent and the Grenadines | Turks and Caicos Islands | Barbados",no income group
+"Anguilla (United Kingdom) | Antigua and Barbuda | Bahamas | Saint Barthélemy (France) | Saint Kitts and Nevis | Saint Martin (France) | Sint Maarten (Dutch part) | Turks and Caicos Islands | Virgin Islands, British",no income group
+"Antigua and Barbuda | Saint Martin (France) | Bahamas | Anguilla (United Kingdom) | Turks and Caicos Islands | Virgin Islands, British | Saint Barthélemy (France) | Saint Kitts and Nevis | Sint Maarten (Dutch part)",no income group
+Argentina | Aruba | Brazil | Chile | Colombia | Costa Rica | Curaçao | Dominican Republic | Ecuador | Guyana | Mexico | Panama | Paraguay | Peru | Trinidad and Tobago | Uruguay,no income group
+Argentina | Aruba | Brazil | Chile | Colombia | Costa Rica | Curaçao | Ecuador | Dominican Republic | Guyana | Mexico | Panama | Peru | Trinidad and Tobago | Uruguay | Paraguay,no income group
+Argentina | Aruba | Brazil | Chile | Colombia | Costa Rica | Curaçao | Panama | Ecuador | Peru | Dominican Republic | Trinidad and Tobago | Guyana | Uruguay | Mexico | Paraguay,no income group
+Argentina | Aruba | Brazil | Colombia | Costa Rica | Dominican Republic | Ecuador | Guyana | Mexico | Panama | Paraguay | Peru,no income group
+Argentina | Aruba | Brazil | Colombia | Mexico | Costa Rica | Dominican Republic | Paraguay | Peru | Ecuador | Panama | Guyana,no income group
+Argentina | Brazil | Colombia | Curaçao | Ecuador | Mexico | Paraguay | Trinidad and Tobago | Aruba | Chile | Costa Rica | Dominican Republic | Guyana | Panama | Peru | Uruguay,no income group
+Argentina | Costa Rica | Aruba | Curaçao | Brazil | Dominican Republic | Chile | Ecuador | Colombia | Guyana | Mexico | Panama | Paraguay | Peru | Trinidad and Tobago | Uruguay,no income group
+Aruba | Costa Rica | Uruguay | Brazil | Curaçao | Mexico | Paraguay | Colombia | Dominican Republic | Panama | Ecuador | Guyana | Argentina | Peru | Trinidad and Tobago | Chile,no income group
+"Barbados | Turks and Caicos Islands | Saint Vincent and the Grenadines | Sint Maarten (Dutch part) | Saint Martin (France) | Saint Lucia | Saint Kitts and Nevis | Anguilla (United Kingdom) | Antigua and Barbuda | Bahamas | Bonaire, Saint Eustatius and Saba (The Netherlands) | Virgin Islands, British | Cuba | Dominica | Dominican Republic | Guadeloupe (France) | Haiti | Martinique (France) | Montserrat | Puerto Rico (United States) | Saint Barthélemy (France)",no income group
+"Barbados | Turks and Caicos Islands | Saint Vincent and the Grenadines | Sint Maarten (Dutch part) | Saint Martin (France) | Saint Lucia | Saint Kitts and Nevis | Saint Barthélemy (France) | Puerto Rico (United States) | Montserrat | Martinique (France) | Haiti | Guadeloupe (France) | Dominican Republic | Dominica | Cuba | Virgin Islands, British | Bonaire, Saint Eustatius and Saba (The Netherlands) | Bahamas | Antigua and Barbuda | Anguilla (United Kingdom)",no income group
+"Bolivia, Plurinational State of | Argentina | Aruba | Brazil | Chile | Colombia | Costa Rica | Curaçao | Dominican Republic | Ecuador | Guyana | Mexico | Panama | Paraguay | Peru | Trinidad and Tobago | Uruguay",no income group
+"Bonaire, Saint Eustatius and Saba (The Netherlands) | Bahamas | Antigua and Barbuda | Anguilla (United Kingdom) | Barbados | Turks and Caicos Islands | Saint Vincent and the Grenadines | Sint Maarten (Dutch part) | Saint Martin (France) | Saint Lucia | Saint Kitts and Nevis | Saint Barthélemy (France) | Puerto Rico (United States) | Montserrat | Martinique (France) | Haiti | Guadeloupe (France) | Dominican Republic | Dominica | Cuba | Virgin Islands, British",no income group
+Brazil | Aruba | Costa Rica | Uruguay | Colombia | Dominican Republic | Panama | Ecuador | Guyana | Argentina | Peru | Trinidad and Tobago | Chile | Curaçao | Mexico | Paraguay,no income group
+Brazil | Colombia | Ecuador | Aruba | Peru | Curaçao | Dominican Republic | Guyana | Trinidad and Tobago | Costa Rica | Mexico | Panama | Argentina | Chile | Uruguay | Paraguay,no income group
+Brazil | Colombia | Ecuador | Peru | Aruba | Curaçao | Dominican Republic | Guyana | Trinidad and Tobago | Costa Rica | Mexico | Panama | Argentina | Chile | Uruguay | Paraguay,no income group
+Brazil | Curaçao | Mexico | Trinidad and Tobago | Argentina | Colombia | Ecuador | Paraguay | Aruba | Chile | Costa Rica | Dominican Republic | Guyana | Panama | Peru | Uruguay,no income group
+Brazil | Curaçao | Mexico | Trinidad and Tobago | Chile | Dominican Republic | Panama | Uruguay | Aruba | Costa Rica | Guyana | Peru | Argentina | Colombia | Ecuador | Paraguay,no income group
+Brazil | Dominican Republic | Paraguay | Argentina | Costa Rica | Mexico | Uruguay | Colombia | Guyana | Trinidad and Tobago | Aruba | Chile | Curaçao | Ecuador | Panama | Peru,no income group
+Brazil | Dominican Republic | Paraguay | Chile | Ecuador | Peru | Colombia | Guyana | Trinidad and Tobago | Argentina | Costa Rica | Mexico | Uruguay | Aruba | Curaçao | Panama,no income group
+Burkina Faso | Mali | Chad | Central African Republic,no income group
+Chad | Cameroon,no income group
+Chad | Cameroon | Niger | Nigeria,no income group
+Chad | Cameroon | Nigeria | Niger,no income group
+Chad | Sweden,no income group
+Chile | Dominican Republic | Trinidad and Tobago | Argentina | Costa Rica | Mexico | Paraguay | Aruba | Curaçao | Panama | Brazil | Ecuador | Peru | Colombia | Guyana | Uruguay,no income group
+Chile | Dominican Republic | Trinidad and Tobago | Brazil | Ecuador | Peru | Colombia | Guyana | Uruguay | Aruba | Curaçao | Panama | Argentina | Costa Rica | Mexico | Paraguay,no income group
+Chile | Ecuador | Peru | Aruba | Curaçao | Panama | Colombia | Guyana | Trinidad and Tobago | Brazil | Dominican Republic | Paraguay | Argentina | Costa Rica | Mexico | Uruguay,no income group
+Chile | Trinidad and Tobago | Peru | Argentina | Guyana | Ecuador | Panama | Dominican Republic | Colombia | Paraguay | Mexico | Curaçao | Brazil | Uruguay | Costa Rica | Aruba,no income group
+"Colombia | Bolivia, Plurinational State of",no income group
+"Colombia | Brazil | Venezuela, Bolivarian Republic of",no income group
+Colombia | Mexico | Uruguay | Argentina | Costa Rica | Ecuador | Peru | Aruba | Chile | Curaçao | Brazil | Guyana | Trinidad and Tobago | Dominican Republic | Paraguay | Panama,no income group
+"Colombia | Venezuela, Bolivarian Republic of",no income group
+"Colombia | Venezuela, Bolivarian Republic of | Ecuador",no income group
+Comoros | Malawi | Zimbabwe | Mozambique,no income group
+"Congo, The Democratic Republic of the | Rwanda",no income group
+"Congo, The Democratic Republic of the | Rwanda | Tanzania, United Republic of | Uganda",no income group
+"Congo, The Democratic Republic of the | Sweden",no income group
+Cook Islands,no income group
+Cook Islands | Fiji,no income group
+Costa Rica | Colombia | Chile | Brazil | Argentina | Curaçao | Aruba | Uruguay | Trinidad and Tobago | Peru | Paraguay | Panama | Mexico | Guyana | Ecuador | Dominican Republic,no income group
+Cuba | Jamaica | Bahamas | Haiti,no income group
+Curaçao | Chile | Dominican Republic | Ecuador | Guyana | Mexico | Panama | Paraguay | Peru | Trinidad and Tobago | Uruguay | Argentina | Brazil | Colombia | Costa Rica | Aruba,no income group
+Djibouti | Ethiopia | Yemen,no income group
+Dominican Republic | Ecuador | Guyana | Mexico | Panama | Paraguay | Peru | Argentina | Trinidad and Tobago | Brazil | Uruguay | Chile | Aruba | Colombia | Curaçao | Costa Rica,no income group
+Dominican Republic | Ecuador | Guyana | Mexico | Panama | Paraguay | Peru | Trinidad and Tobago | Uruguay | Aruba | Curaçao | Argentina | Brazil | Chile | Colombia | Costa Rica,no income group
+"Ecuador | Colombia | Venezuela, Bolivarian Republic of",no income group
+Ecuador | Guyana | Argentina | Peru | Trinidad and Tobago | Chile | Aruba | Costa Rica | Uruguay | Brazil | Curaçao | Mexico | Paraguay | Colombia | Dominican Republic | Panama,no income group
+Ecuador | Peru | Colombia,no income group
+Egypt | Iraq | Jordan | Lebanon | Syrian Arab Republic | Turkey,no income group
+Egypt | Iraq | Jordan | Lebanon | Turkey,no income group
+Egypt | Iraq | Jordan | Turkey | Lebanon,no income group
+Egypt | Jordan | Lebanon | Iraq | Syrian Arab Republic | Turkey,no income group
+Egypt | Jordan | Turkey | Lebanon | Syrian Arab Republic | Iraq,no income group
+Egypt | Turkey | Iraq | Jordan | Lebanon,no income group
+Egypt | Turkey | Iraq | Lebanon | Jordan,no income group
+Egypt | Turkey | Jordan | Iraq | Lebanon,no income group
+Eritrea | South Sudan | Djibouti | Ethiopia | Somalia | Kenya,no income group
+Eritrea | South Sudan | Djibouti | Uganda | Ethiopia | Somalia | Kenya,no income group
+Ethiopia | Somalia | Kenya,no income group
+Ethiopia | Somalia | Kenya | Djibouti | South Sudan | Eritrea,no income group
+Falkland Islands (Malvinas),no income group
+Guatemala | Mexico | Honduras,no income group
+Guyana | Mexico | Panama | Trinidad and Tobago | Uruguay | Aruba | Brazil | Chile | Colombia | Dominican Republic | Ecuador | Paraguay | Peru | Curaçao | Argentina | Costa Rica,no income group
+Honduras | Guatemala,no income group
+"Iran, Islamic Republic of | Uganda",no income group
+Iraq | Jordan | Syrian Arab Republic | Turkey | Lebanon,no income group
+Iraq | Jordan | Turkey | Egypt | Lebanon,no income group
+Iraq | Lebanon,no income group
+Iraq | Lebanon | Jordan | Turkey | Egypt,no income group
+Iraq | Sweden,no income group
+Iraq | Syrian Arab Republic | Turkey | Egypt | Jordan | Lebanon,no income group
+Iraq | Turkey | Egypt | Jordan | Lebanon | Syrian Arab Republic,no income group
+Iraq | Turkey | Egypt | Lebanon | Jordan,no income group
+Italy | occupied Palestinian territory,no income group
+Jordan | Egypt | Turkey | Iraq | Lebanon,no income group
+Jordan | Iraq | Syrian Arab Republic | Turkey | Egypt | Lebanon,no income group
+Jordan | Iraq | Turkey,no income group
+Jordan | Iraq | Turkey | Egypt | Lebanon,no income group
+Jordan | Lebanon | Iraq | Syrian Arab Republic,no income group
+Jordan | Lebanon | Iraq | Syrian Arab Republic | Turkey | Egypt,no income group
+Jordan | Lebanon | Iraq | Turkey | Egypt,no income group
+Jordan | Lebanon | Syrian Arab Republic,no income group
+Jordan | Turkey | Lebanon,no income group
+Kenya | Ethiopia | Sudan,no income group
+Kenya | Somalia,no income group
+Kenya | Somalia | Ethiopia | Uganda | South Sudan | Eritrea,no income group
+"Kenya | Uganda | Tanzania, United Republic of",no income group
+Kyrgyzstan | Tajikistan,no income group
+Lebanon | Egypt | Iraq | Jordan | Turkey,no income group
+Lebanon | Egypt | Turkey | Iraq | Jordan,no income group
+Lebanon | Egypt | Turkey | Jordan | Iraq,no income group
+Lebanon | Egypt | Turkey | Syrian Arab Republic | Iraq | Jordan,no income group
+Lebanon | Iraq | Turkey | Jordan | Egypt,no income group
+Lebanon | Jordan,no income group
+Lebanon | Jordan | Iraq,no income group
+Lebanon | Jordan | Iraq | Egypt | Turkey,no income group
+Lebanon | Jordan | Iraq | Syrian Arab Republic,no income group
+Lebanon | Jordan | Iraq | Turkey | Egypt,no income group
+Lebanon | Jordan | Turkey,no income group
+Lebanon | Jordan | Turkey | Egypt | Iraq,no income group
+Lebanon | Jordan | Turkey | Iraq | Egypt,no income group
+Lebanon | Jordan | Turkey | Iraq | Egypt | Syrian Arab Republic,no income group
+Lebanon | Sudan | occupied Palestinian territory,no income group
+Lebanon | Syrian Arab Republic,no income group
+Lebanon | Turkey | Jordan,no income group
+Lebanon | Turkey | Jordan | Egypt,no income group
+Lebanon | Turkey | Jordan | Iraq | Egypt,no income group
+Lesotho | Namibia | Eswatini | South Africa | Zambia | Zimbabwe,no income group
+Malawi | Mozambique | Zimbabwe,no income group
+Malawi | Zimbabwe | Mozambique,no income group
+Mali | Senegal | Gambia | Guinea | Guinea-Bissau,no income group
+Mexico | Costa Rica | Argentina | Uruguay | Paraguay | Dominican Republic | Brazil | Trinidad and Tobago | Guyana | Colombia | Peru | Panama | Ecuador | Curaçao | Chile | Aruba,no income group
+Morocco | Panama,no income group
+Mozambique | Malawi | Zambia | Zimbabwe | Lesotho | South Africa | Eswatini,no income group
+Mozambique | Malawi | Zimbabwe,no income group
+Mozambique | Zimbabwe | Malawi,no income group
+Mozambique | Zimbabwe | Malawi | Comoros,no income group
+Nicaragua | Guatemala,no income group
+Niger | Nigeria,no income group
+Nigeria | South Sudan | Somalia,no income group
+Niue,no income group
+occupied Palestinian territory | Gaza Strip | West Bank,no income group
+Panama | Dominican Republic | Mexico | Curaçao | Brazil | Aruba | Chile | Trinidad and Tobago | Guyana | Ecuador | Colombia | Uruguay | Peru | Paraguay | Costa Rica | Argentina,no income group
+Panama | Paraguay | Uruguay | Peru | Mexico | Ecuador | Dominican Republic | Curaçao | Costa Rica | Colombia | Chile | Brazil | Aruba | Argentina | Trinidad and Tobago | Guyana,no income group
+Paraguay | Dominican Republic | Brazil | Uruguay | Mexico | Costa Rica | Argentina | Panama | Curaçao | Aruba | Peru | Ecuador | Chile | Trinidad and Tobago | Guyana | Colombia,no income group
+Paraguay | Ecuador | Uruguay | Mexico | Trinidad and Tobago | Peru | Panama | Guyana | Dominican Republic | Curaçao | Costa Rica | Colombia | Chile | Brazil | Aruba | Argentina,no income group
+Paraguay | Uruguay | Chile | Argentina | Panama | Mexico | Costa Rica | Trinidad and Tobago | Guyana | Dominican Republic | Curaçao | Peru | Aruba | Ecuador | Colombia | Brazil,no income group
+Paraguay | Uruguay | Trinidad and Tobago | Peru | Panama | Mexico | Guyana | Dominican Republic | Ecuador | Curaçao | Costa Rica | Colombia | Chile | Brazil | Aruba | Argentina,no income group
+Peru | Ecuador,no income group
+Saint Barthélemy (France) | Anguilla (United Kingdom) | Antigua and Barbuda,no income group
+Saint Kitts and Nevis | Antigua and Barbuda,no income group
+Sint Maarten (Dutch part) | Bahamas | Antigua and Barbuda | Saint Kitts and Nevis,no income group
+"Sint Maarten (Dutch part) | Saint Kitts and Nevis | Saint Barthélemy (France) | Virgin Islands, British | Turks and Caicos Islands | Anguilla (United Kingdom) | Bahamas | Antigua and Barbuda | Saint Martin (France)",no income group
+"Sint Maarten (Dutch part) | Saint Kitts and Nevis | Saint Barthélemy (France) | Virgin Islands, British | Turks and Caicos Islands | Anguilla (United Kingdom) | Bahamas | Saint Martin (France) | Antigua and Barbuda",no income group
+Somalia | Kenya | Ethiopia,no income group
+Somalia | South Sudan | Nigeria,no income group
+South Sudan | Italy,no income group
+South Sudan | Kenya | Sudan | Ethiopia,no income group
+South Sudan | Uganda | Ethiopia,no income group
+Sudan | Eritrea,no income group
+Sweden | Afghanistan,no income group
+Sweden | Iraq,no income group
+Sweden | Mozambique,no income group
+Syrian Arab Republic | Egypt | Turkey | Jordan | Lebanon | Iraq,no income group
+Syrian Arab Republic | Iraq | Jordan | Lebanon,no income group
+Syrian Arab Republic | Iraq | Lebanon | Jordan,no income group
+Syrian Arab Republic | Jordan | Lebanon | Iraq | Egypt | Turkey,no income group
+Syrian Arab Republic | Lebanon,no income group
+Syrian Arab Republic | Lebanon | Jordan,no income group
+Syrian Arab Republic | Lebanon | Jordan | occupied Palestinian territory,no income group
+Syrian Arab Republic | Turkey,no income group
+Trinidad and Tobago | Guyana | Colombia | Peru | Ecuador | Chile | Panama | Curaçao | Aruba | Paraguay | Dominican Republic | Brazil | Uruguay | Mexico | Costa Rica | Argentina,no income group
+Trinidad and Tobago | Guyana | Dominican Republic | Curaçao | Aruba,no income group
+Trinidad and Tobago | Peru | Ecuador | Colombia,no income group
+Trinidad and Tobago | Peru | Guyana | Ecuador | Colombia | Brazil,no income group
+Turkey | Egypt | Iraq | Jordan | Lebanon,no income group
+Turkey | Egypt | Jordan | Lebanon | Iraq | Syrian Arab Republic,no income group
+Turkey | Jordan | Iraq | Syrian Arab Republic | Egypt | Lebanon,no income group
+Turkey | Jordan | Lebanon,no income group
+Turkey | Jordan | Lebanon | Iraq | Egypt,no income group
+Turkey | Jordan | Lebanon | Syrian Arab Republic,no income group
+Turkey | Lebanon | Iraq | Egypt | Jordan,no income group
+Turkey | Lebanon | Jordan,no income group
+Turkey | Lebanon | Jordan | Egypt | Iraq,no income group
+Turkey | Lebanon | Jordan | Iraq | Egypt,no income group
+Turkey | Syrian Arab Republic,no income group
+Turkey | Syrian Arab Republic | Lebanon | Jordan,no income group
+Uganda | Eritrea | South Sudan | Djibouti | Somalia | Ethiopia | Kenya,no income group
+Uganda | Kenya,no income group
+Uganda | Sweden,no income group
+Uruguay | Costa Rica | Argentina | Trinidad and Tobago | Guyana | Peru | Ecuador | Chile | Paraguay | Brazil | Panama | Mexico | Colombia | Dominican Republic | Curaçao | Aruba,no income group
+Uruguay | Peru | Panama | Guyana | Paraguay | Dominican Republic | Curaçao | Brazil | Ecuador | Costa Rica | Argentina | Colombia | Trinidad and Tobago | Chile | Mexico | Aruba,no income group
+Uruguay | Peru | Panama | Guyana | Paraguay | Dominican Republic | Curaçao | Costa Rica | Colombia | Chile | Brazil | Aruba | Argentina | Trinidad and Tobago | Mexico | Ecuador,no income group
+Uruguay | Trinidad and Tobago | Peru | Paraguay | Panama | Mexico | Guyana | Ecuador | Dominican Republic | Curaçao | Costa Rica | Colombia | Chile | Brazil | Aruba | Argentina,no income group
+"Uruguay | Trinidad and Tobago | Peru | Paraguay | Panama | Mexico | Guyana | Ecuador | Dominican Republic | Curaçao | Costa Rica | Colombia | Chile | Brazil | Aruba | Argentina | Bolivia, Plurinational State of",no income group
+"Uruguay | Trinidad and Tobago | Peru | Paraguay | Panama | Mexico | Guyana | Ecuador | Dominican Republic | Curaçao | Costa Rica | Colombia | Chile | Brazil | Bolivia, Plurinational State of | Aruba | Argentina",no income group
+Vanuatu | Tonga | Fiji | Solomon Islands | Samoa,no income group
+"Venezuela, Bolivarian Republic of | Brazil | Ecuador | Colombia",no income group
+"Venezuela, Bolivarian Republic of | Colombia",no income group
+"Venezuela, Bolivarian Republic of | Colombia | Ecuador",no income group
+"Virgin Islands, British | Saint Kitts and Nevis | Turks and Caicos Islands | Sint Maarten (Dutch part) | Saint Martin (France) | Bahamas | Antigua and Barbuda | Anguilla (United Kingdom) | Saint Barthélemy (France)",no income group
+West Bank | Gaza Strip | occupied Palestinian territory,no income group
+West Bank | occupied Palestinian territory | Gaza Strip,no income group
+Western Sahara,no income group
+Yemen | Somalia | South Sudan | Nigeria,no income group
+"Yemen | Uganda | Tanzania, United Republic of | South Sudan | Somalia | Kenya | Ethiopia | Eritrea | Djibouti",no income group
+Zambia | Angola,no income group
+Zimbabwe | Mozambique | Malawi,no income group
+Sweden | Uganda,no income group
+"Anguilla (United Kingdom) | Antigua and Barbuda | Bahamas | Barbados | Bonaire, Saint Eustatius and Saba (The Netherlands) | Cuba | Dominica | Dominican Republic | Guadeloupe (France) | Haiti | Martinique (France) | Montserrat | Puerto Rico (United States) | Saint Barth�lemy (France) | Saint Kitts and Nevis | Saint Lucia | Saint Martin (France) | Saint Vincent and the Grenadines | Sint Maarten (Dutch part) | Turks and Caicos Islands | Virgin Islands, British",no income group
+Nigeria | Somalia | South Sudan,no income group
+Argentina | Aruba | Brazil | Chile | Colombia | Costa Rica | Cura�ao | Dominican Republic | Ecuador | Guyana | Mexico | Panama | Peru | Trinidad and Tobago | Uruguay,no income group
+Eswatini | Lesotho | Namibia | South Africa | Zambia | Zimbabwe,no income group
+Argentina | Aruba | Brazil | Chile | Colombia | Costa Rica | Cura�ao | Dominican Republic | Ecuador | Guyana | Mexico | Panama | Paraguay | Peru | Trinidad and Tobago | Uruguay,no income group
+Guatemala | Honduras | Mexico,no income group
+Jordan | Lebanon | Syrian Arab Republic | Turkey,no income group
+Ethiopia | Kenya | South Sudan | Sudan,no income group
+Brazil | Colombia | Ecuador | Guyana | Peru | Trinidad and Tobago,no income group
+Colombia | Peru,no income group
+"Brazil | Colombia | Venezuela, Bolivarian Republic of",no income group
+"Colombia | Ecuador | Venezuela, Bolivarian Republic of",no income group
+"Kenya | Tanzania, United Republic of | Uganda",no income group
+Bahamas | Cuba | Haiti | Jamaica,no income group
+Cameroon | Chad,no income group
+Cameroon | Chad | Niger | Nigeria,no income group
+Egypt | Iraq | Jordan | Turkey,no income group
+Eritrea | Sudan,no income group
+Gambia | Guinea | Guinea-Bissau | Mali | Senegal,no income group
+Kenya | Uganda,no income group
+Nigeria | Somalia | South Sudan | Yemen,no income group
+Egypt | Iraq | Lebanon | Turkey,no income group

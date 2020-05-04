@@ -1,0 +1,470 @@
+Destination.Country,odaeligible
+Angola | Zambia,ODA-eligible
+"Anguilla (United Kingdom) | Antigua and Barbuda | Bahamas | Bonaire, Saint Eustatius and Saba (The Netherlands) | Virgin Islands, British | Cuba | Dominica | Dominican Republic | Guadeloupe (France) | Haiti | Martinique (France) | Montserrat | Puerto Rico (United States) | Saint Barthélemy (France) | Saint Kitts and Nevis | Saint Lucia | Saint Martin (France) | Sint Maarten (Dutch part) | Saint Vincent and the Grenadines | Turks and Caicos Islands | Barbados",ODA-eligible
+"Anguilla (United Kingdom) | Antigua and Barbuda | Bahamas | Saint Barthélemy (France) | Saint Kitts and Nevis | Saint Martin (France) | Sint Maarten (Dutch part) | Turks and Caicos Islands | Virgin Islands, British",ODA-eligible
+"Antigua and Barbuda | Saint Martin (France) | Bahamas | Anguilla (United Kingdom) | Turks and Caicos Islands | Virgin Islands, British | Saint Barthélemy (France) | Saint Kitts and Nevis | Sint Maarten (Dutch part)",ODA-eligible
+Argentina | Aruba | Brazil | Chile | Colombia | Costa Rica | Curaçao | Dominican Republic | Ecuador | Guyana | Mexico | Panama | Paraguay | Peru | Trinidad and Tobago | Uruguay,ODA-eligible
+Argentina | Aruba | Brazil | Chile | Colombia | Costa Rica | Curaçao | Ecuador | Dominican Republic | Guyana | Mexico | Panama | Peru | Trinidad and Tobago | Uruguay | Paraguay,ODA-eligible
+Argentina | Aruba | Brazil | Chile | Colombia | Costa Rica | Curaçao | Panama | Ecuador | Peru | Dominican Republic | Trinidad and Tobago | Guyana | Uruguay | Mexico | Paraguay,ODA-eligible
+Argentina | Aruba | Brazil | Colombia | Costa Rica | Dominican Republic | Ecuador | Guyana | Mexico | Panama | Paraguay | Peru,ODA-eligible
+Argentina | Aruba | Brazil | Colombia | Mexico | Costa Rica | Dominican Republic | Paraguay | Peru | Ecuador | Panama | Guyana,ODA-eligible
+Argentina | Brazil | Colombia | Curaçao | Ecuador | Mexico | Paraguay | Trinidad and Tobago | Aruba | Chile | Costa Rica | Dominican Republic | Guyana | Panama | Peru | Uruguay,ODA-eligible
+Argentina | Costa Rica | Aruba | Curaçao | Brazil | Dominican Republic | Chile | Ecuador | Colombia | Guyana | Mexico | Panama | Paraguay | Peru | Trinidad and Tobago | Uruguay,ODA-eligible
+Aruba | Costa Rica | Uruguay | Brazil | Curaçao | Mexico | Paraguay | Colombia | Dominican Republic | Panama | Ecuador | Guyana | Argentina | Peru | Trinidad and Tobago | Chile,ODA-eligible
+"Barbados | Turks and Caicos Islands | Saint Vincent and the Grenadines | Sint Maarten (Dutch part) | Saint Martin (France) | Saint Lucia | Saint Kitts and Nevis | Anguilla (United Kingdom) | Antigua and Barbuda | Bahamas | Bonaire, Saint Eustatius and Saba (The Netherlands) | Virgin Islands, British | Cuba | Dominica | Dominican Republic | Guadeloupe (France) | Haiti | Martinique (France) | Montserrat | Puerto Rico (United States) | Saint Barthélemy (France)",ODA-eligible
+"Barbados | Turks and Caicos Islands | Saint Vincent and the Grenadines | Sint Maarten (Dutch part) | Saint Martin (France) | Saint Lucia | Saint Kitts and Nevis | Saint Barthélemy (France) | Puerto Rico (United States) | Montserrat | Martinique (France) | Haiti | Guadeloupe (France) | Dominican Republic | Dominica | Cuba | Virgin Islands, British | Bonaire, Saint Eustatius and Saba (The Netherlands) | Bahamas | Antigua and Barbuda | Anguilla (United Kingdom)",ODA-eligible
+"Bolivia, Plurinational State of | Argentina | Aruba | Brazil | Chile | Colombia | Costa Rica | Curaçao | Dominican Republic | Ecuador | Guyana | Mexico | Panama | Paraguay | Peru | Trinidad and Tobago | Uruguay",ODA-eligible
+"Bonaire, Saint Eustatius and Saba (The Netherlands) | Bahamas | Antigua and Barbuda | Anguilla (United Kingdom) | Barbados | Turks and Caicos Islands | Saint Vincent and the Grenadines | Sint Maarten (Dutch part) | Saint Martin (France) | Saint Lucia | Saint Kitts and Nevis | Saint Barthélemy (France) | Puerto Rico (United States) | Montserrat | Martinique (France) | Haiti | Guadeloupe (France) | Dominican Republic | Dominica | Cuba | Virgin Islands, British",ODA-eligible
+Brazil | Aruba | Costa Rica | Uruguay | Colombia | Dominican Republic | Panama | Ecuador | Guyana | Argentina | Peru | Trinidad and Tobago | Chile | Curaçao | Mexico | Paraguay,ODA-eligible
+Brazil | Colombia | Ecuador | Aruba | Peru | Curaçao | Dominican Republic | Guyana | Trinidad and Tobago | Costa Rica | Mexico | Panama | Argentina | Chile | Uruguay | Paraguay,ODA-eligible
+Brazil | Colombia | Ecuador | Peru | Aruba | Curaçao | Dominican Republic | Guyana | Trinidad and Tobago | Costa Rica | Mexico | Panama | Argentina | Chile | Uruguay | Paraguay,ODA-eligible
+Brazil | Curaçao | Mexico | Trinidad and Tobago | Argentina | Colombia | Ecuador | Paraguay | Aruba | Chile | Costa Rica | Dominican Republic | Guyana | Panama | Peru | Uruguay,ODA-eligible
+Brazil | Curaçao | Mexico | Trinidad and Tobago | Chile | Dominican Republic | Panama | Uruguay | Aruba | Costa Rica | Guyana | Peru | Argentina | Colombia | Ecuador | Paraguay,ODA-eligible
+Brazil | Dominican Republic | Paraguay | Argentina | Costa Rica | Mexico | Uruguay | Colombia | Guyana | Trinidad and Tobago | Aruba | Chile | Curaçao | Ecuador | Panama | Peru,ODA-eligible
+Brazil | Dominican Republic | Paraguay | Chile | Ecuador | Peru | Colombia | Guyana | Trinidad and Tobago | Argentina | Costa Rica | Mexico | Uruguay | Aruba | Curaçao | Panama,ODA-eligible
+Burkina Faso | Mali | Chad | Central African Republic,ODA-eligible
+Côte d'Ivoire,ODA-eligible
+Chad | Cameroon,ODA-eligible
+Chad | Cameroon | Niger | Nigeria,ODA-eligible
+Chad | Cameroon | Nigeria | Niger,ODA-eligible
+Chile | Dominican Republic | Trinidad and Tobago | Argentina | Costa Rica | Mexico | Paraguay | Aruba | Curaçao | Panama | Brazil | Ecuador | Peru | Colombia | Guyana | Uruguay,ODA-eligible
+Chile | Dominican Republic | Trinidad and Tobago | Brazil | Ecuador | Peru | Colombia | Guyana | Uruguay | Aruba | Curaçao | Panama | Argentina | Costa Rica | Mexico | Paraguay,ODA-eligible
+Chile | Ecuador | Peru | Aruba | Curaçao | Panama | Colombia | Guyana | Trinidad and Tobago | Brazil | Dominican Republic | Paraguay | Argentina | Costa Rica | Mexico | Uruguay,ODA-eligible
+Chile | Trinidad and Tobago | Peru | Argentina | Guyana | Ecuador | Panama | Dominican Republic | Colombia | Paraguay | Mexico | Curaçao | Brazil | Uruguay | Costa Rica | Aruba,ODA-eligible
+"Colombia | Bolivia, Plurinational State of",ODA-eligible
+"Colombia | Brazil | Venezuela, Bolivarian Republic of",ODA-eligible
+Colombia | Mexico | Uruguay | Argentina | Costa Rica | Ecuador | Peru | Aruba | Chile | Curaçao | Brazil | Guyana | Trinidad and Tobago | Dominican Republic | Paraguay | Panama,ODA-eligible
+"Colombia | Venezuela, Bolivarian Republic of | Ecuador",ODA-eligible
+Comoros | Malawi | Zimbabwe | Mozambique,ODA-eligible
+"Congo, The Democratic Republic of the | Rwanda | Tanzania, United Republic of | Uganda",ODA-eligible
+"Congo, The Democratic Republic of the | Sweden",ODA-eligible
+Cook Islands | Fiji,ODA-eligible
+Costa Rica | Colombia | Chile | Brazil | Argentina | Curaçao | Aruba | Uruguay | Trinidad and Tobago | Peru | Paraguay | Panama | Mexico | Guyana | Ecuador | Dominican Republic,ODA-eligible
+Cuba | Jamaica | Bahamas | Haiti,ODA-eligible
+Curaçao,ODA-eligible
+Curaçao | Chile | Dominican Republic | Ecuador | Guyana | Mexico | Panama | Paraguay | Peru | Trinidad and Tobago | Uruguay | Argentina | Brazil | Colombia | Costa Rica | Aruba,ODA-eligible
+Dominican Republic | Ecuador | Guyana | Mexico | Panama | Paraguay | Peru | Argentina | Trinidad and Tobago | Brazil | Uruguay | Chile | Aruba | Colombia | Curaçao | Costa Rica,ODA-eligible
+Dominican Republic | Ecuador | Guyana | Mexico | Panama | Paraguay | Peru | Trinidad and Tobago | Uruguay | Aruba | Curaçao | Argentina | Brazil | Chile | Colombia | Costa Rica,ODA-eligible
+"Ecuador | Colombia | Venezuela, Bolivarian Republic of",ODA-eligible
+Ecuador | Guyana | Argentina | Peru | Trinidad and Tobago | Chile | Aruba | Costa Rica | Uruguay | Brazil | Curaçao | Mexico | Paraguay | Colombia | Dominican Republic | Panama,ODA-eligible
+Ecuador | Peru | Colombia,ODA-eligible
+Egypt | Iraq | Jordan | Turkey | Lebanon,ODA-eligible
+Egypt | Jordan | Lebanon | Iraq | Syrian Arab Republic | Turkey,ODA-eligible
+Egypt | Jordan | Turkey | Lebanon | Syrian Arab Republic | Iraq,ODA-eligible
+Egypt | Turkey | Iraq | Jordan | Lebanon,ODA-eligible
+Egypt | Turkey | Iraq | Lebanon | Jordan,ODA-eligible
+Egypt | Turkey | Jordan | Iraq | Lebanon,ODA-eligible
+Eritrea | South Sudan | Djibouti | Ethiopia | Somalia | Kenya,ODA-eligible
+Eritrea | South Sudan | Djibouti | Uganda | Ethiopia | Somalia | Kenya,ODA-eligible
+Ethiopia | Somalia | Kenya,ODA-eligible
+Ethiopia | Somalia | Kenya | Djibouti | South Sudan | Eritrea,ODA-eligible
+Falkland Islands (Malvinas),ODA-eligible
+Guatemala | Mexico | Honduras,ODA-eligible
+Guyana | Mexico | Panama | Trinidad and Tobago | Uruguay | Aruba | Brazil | Chile | Colombia | Dominican Republic | Ecuador | Paraguay | Peru | Curaçao | Argentina | Costa Rica,ODA-eligible
+Honduras | Guatemala,ODA-eligible
+Iraq | Jordan | Syrian Arab Republic | Turkey | Lebanon,ODA-eligible
+Iraq | Jordan | Turkey | Egypt | Lebanon,ODA-eligible
+Iraq | Lebanon,ODA-eligible
+Iraq | Lebanon | Jordan | Turkey | Egypt,ODA-eligible
+Iraq | Syrian Arab Republic | Turkey | Egypt | Jordan | Lebanon,ODA-eligible
+Iraq | Turkey | Egypt | Jordan | Lebanon | Syrian Arab Republic,ODA-eligible
+Iraq | Turkey | Egypt | Lebanon | Jordan,ODA-eligible
+Italy | occupied Palestinian territory,ODA-eligible
+Jordan | Egypt | Turkey | Iraq | Lebanon,ODA-eligible
+Jordan | Iraq | Syrian Arab Republic | Turkey | Egypt | Lebanon,ODA-eligible
+Jordan | Iraq | Turkey,ODA-eligible
+Jordan | Iraq | Turkey | Egypt | Lebanon,ODA-eligible
+Jordan | Lebanon | Iraq | Syrian Arab Republic,ODA-eligible
+Jordan | Lebanon | Iraq | Syrian Arab Republic | Turkey | Egypt,ODA-eligible
+Jordan | Lebanon | Iraq | Turkey | Egypt,ODA-eligible
+Jordan | Turkey | Lebanon,ODA-eligible
+Kenya | Ethiopia | Sudan,ODA-eligible
+Kenya | Somalia,ODA-eligible
+Kenya | Somalia | Ethiopia | Uganda | South Sudan | Eritrea,ODA-eligible
+"Kenya | Uganda | Tanzania, United Republic of",ODA-eligible
+Lebanon | Egypt | Iraq | Jordan | Turkey,ODA-eligible
+Lebanon | Egypt | Turkey | Iraq | Jordan,ODA-eligible
+Lebanon | Egypt | Turkey | Jordan | Iraq,ODA-eligible
+Lebanon | Egypt | Turkey | Syrian Arab Republic | Iraq | Jordan,ODA-eligible
+Lebanon | Iraq | Turkey | Jordan | Egypt,ODA-eligible
+Lebanon | Jordan,ODA-eligible
+Lebanon | Jordan | Iraq,ODA-eligible
+Lebanon | Jordan | Iraq | Egypt | Turkey,ODA-eligible
+Lebanon | Jordan | Iraq | Syrian Arab Republic,ODA-eligible
+Lebanon | Jordan | Iraq | Turkey | Egypt,ODA-eligible
+Lebanon | Jordan | Turkey,ODA-eligible
+Lebanon | Jordan | Turkey | Egypt | Iraq,ODA-eligible
+Lebanon | Jordan | Turkey | Iraq | Egypt,ODA-eligible
+Lebanon | Jordan | Turkey | Iraq | Egypt | Syrian Arab Republic,ODA-eligible
+Lebanon | Syrian Arab Republic,ODA-eligible
+Lebanon | Turkey | Jordan,ODA-eligible
+Lebanon | Turkey | Jordan | Egypt,ODA-eligible
+Lebanon | Turkey | Jordan | Iraq | Egypt,ODA-eligible
+Lesotho | Namibia | Eswatini | South Africa | Zambia | Zimbabwe,ODA-eligible
+Malawi | Mozambique | Zimbabwe,ODA-eligible
+Malawi | Zimbabwe | Mozambique,ODA-eligible
+Mali | Senegal | Gambia | Guinea | Guinea-Bissau,ODA-eligible
+Mexico | Costa Rica | Argentina | Uruguay | Paraguay | Dominican Republic | Brazil | Trinidad and Tobago | Guyana | Colombia | Peru | Panama | Ecuador | Curaçao | Chile | Aruba,ODA-eligible
+Mozambique | Malawi | Zambia | Zimbabwe | Lesotho | South Africa | Eswatini,ODA-eligible
+Mozambique | Malawi | Zimbabwe,ODA-eligible
+Mozambique | Zimbabwe | Malawi,ODA-eligible
+Mozambique | Zimbabwe | Malawi | Comoros,ODA-eligible
+Nicaragua | Guatemala,ODA-eligible
+Nigeria | South Sudan | Somalia,ODA-eligible
+occupied Palestinian territory | Gaza Strip | West Bank,ODA-eligible
+Panama | Dominican Republic | Mexico | Curaçao | Brazil | Aruba | Chile | Trinidad and Tobago | Guyana | Ecuador | Colombia | Uruguay | Peru | Paraguay | Costa Rica | Argentina,ODA-eligible
+Panama | Paraguay | Uruguay | Peru | Mexico | Ecuador | Dominican Republic | Curaçao | Costa Rica | Colombia | Chile | Brazil | Aruba | Argentina | Trinidad and Tobago | Guyana,ODA-eligible
+Paraguay | Dominican Republic | Brazil | Uruguay | Mexico | Costa Rica | Argentina | Panama | Curaçao | Aruba | Peru | Ecuador | Chile | Trinidad and Tobago | Guyana | Colombia,ODA-eligible
+Paraguay | Ecuador | Uruguay | Mexico | Trinidad and Tobago | Peru | Panama | Guyana | Dominican Republic | Curaçao | Costa Rica | Colombia | Chile | Brazil | Aruba | Argentina,ODA-eligible
+Paraguay | Uruguay | Chile | Argentina | Panama | Mexico | Costa Rica | Trinidad and Tobago | Guyana | Dominican Republic | Curaçao | Peru | Aruba | Ecuador | Colombia | Brazil,ODA-eligible
+Paraguay | Uruguay | Trinidad and Tobago | Peru | Panama | Mexico | Guyana | Dominican Republic | Ecuador | Curaçao | Costa Rica | Colombia | Chile | Brazil | Aruba | Argentina,ODA-eligible
+Peru | Ecuador,ODA-eligible
+São Tomé and Príncipe,ODA-eligible
+Saint Barthélemy (France) | Anguilla (United Kingdom) | Antigua and Barbuda,ODA-eligible
+Saint Kitts and Nevis | Antigua and Barbuda,ODA-eligible
+Sint Maarten (Dutch part) | Bahamas | Antigua and Barbuda | Saint Kitts and Nevis,ODA-eligible
+"Sint Maarten (Dutch part) | Saint Kitts and Nevis | Saint Barthélemy (France) | Virgin Islands, British | Turks and Caicos Islands | Anguilla (United Kingdom) | Bahamas | Antigua and Barbuda | Saint Martin (France)",ODA-eligible
+"Sint Maarten (Dutch part) | Saint Kitts and Nevis | Saint Barthélemy (France) | Virgin Islands, British | Turks and Caicos Islands | Anguilla (United Kingdom) | Bahamas | Saint Martin (France) | Antigua and Barbuda",ODA-eligible
+Somalia | Kenya | Ethiopia,ODA-eligible
+Somalia | South Sudan | Nigeria,ODA-eligible
+South Sudan | Italy,ODA-eligible
+South Sudan | Kenya | Sudan | Ethiopia,ODA-eligible
+South Sudan | Uganda | Ethiopia,ODA-eligible
+Sudan | Eritrea,ODA-eligible
+Sweden | Afghanistan,ODA-eligible
+Sweden | Iraq,ODA-eligible
+Sweden | Mozambique,ODA-eligible
+Syrian Arab Republic | Egypt | Turkey | Jordan | Lebanon | Iraq,ODA-eligible
+Syrian Arab Republic | Iraq | Jordan | Lebanon,ODA-eligible
+Syrian Arab Republic | Iraq | Lebanon | Jordan,ODA-eligible
+Syrian Arab Republic | Jordan | Lebanon | Iraq | Egypt | Turkey,ODA-eligible
+Syrian Arab Republic | Lebanon,ODA-eligible
+Syrian Arab Republic | Lebanon | Jordan,ODA-eligible
+Syrian Arab Republic | Lebanon | Jordan | occupied Palestinian territory,ODA-eligible
+Syrian Arab Republic | Turkey,ODA-eligible
+Trinidad and Tobago | Guyana | Colombia | Peru | Ecuador | Chile | Panama | Curaçao | Aruba | Paraguay | Dominican Republic | Brazil | Uruguay | Mexico | Costa Rica | Argentina,ODA-eligible
+Trinidad and Tobago | Guyana | Dominican Republic | Curaçao | Aruba,ODA-eligible
+Trinidad and Tobago | Peru | Ecuador | Colombia,ODA-eligible
+Trinidad and Tobago | Peru | Guyana | Ecuador | Colombia | Brazil,ODA-eligible
+Turkey | Egypt | Iraq | Jordan | Lebanon,ODA-eligible
+Turkey | Egypt | Jordan | Lebanon | Iraq | Syrian Arab Republic,ODA-eligible
+Turkey | Jordan | Iraq | Syrian Arab Republic | Egypt | Lebanon,ODA-eligible
+Turkey | Jordan | Lebanon,ODA-eligible
+Turkey | Jordan | Lebanon | Iraq | Egypt,ODA-eligible
+Turkey | Jordan | Lebanon | Syrian Arab Republic,ODA-eligible
+Turkey | Lebanon | Iraq | Egypt | Jordan,ODA-eligible
+Turkey | Lebanon | Jordan,ODA-eligible
+Turkey | Lebanon | Jordan | Egypt | Iraq,ODA-eligible
+Turkey | Lebanon | Jordan | Iraq | Egypt,ODA-eligible
+Turkey | Syrian Arab Republic,ODA-eligible
+Turkey | Syrian Arab Republic | Lebanon | Jordan,ODA-eligible
+Uganda | Eritrea | South Sudan | Djibouti | Somalia | Ethiopia | Kenya,ODA-eligible
+Uganda | Kenya,ODA-eligible
+Uganda | Sweden,ODA-eligible
+Uruguay | Costa Rica | Argentina | Trinidad and Tobago | Guyana | Peru | Ecuador | Chile | Paraguay | Brazil | Panama | Mexico | Colombia | Dominican Republic | Curaçao | Aruba,ODA-eligible
+Uruguay | Peru | Panama | Guyana | Paraguay | Dominican Republic | Curaçao | Brazil | Ecuador | Costa Rica | Argentina | Colombia | Trinidad and Tobago | Chile | Mexico | Aruba,ODA-eligible
+Uruguay | Peru | Panama | Guyana | Paraguay | Dominican Republic | Curaçao | Costa Rica | Colombia | Chile | Brazil | Aruba | Argentina | Trinidad and Tobago | Mexico | Ecuador,ODA-eligible
+Uruguay | Trinidad and Tobago | Peru | Paraguay | Panama | Mexico | Guyana | Ecuador | Dominican Republic | Curaçao | Costa Rica | Colombia | Chile | Brazil | Aruba | Argentina,ODA-eligible
+"Uruguay | Trinidad and Tobago | Peru | Paraguay | Panama | Mexico | Guyana | Ecuador | Dominican Republic | Curaçao | Costa Rica | Colombia | Chile | Brazil | Aruba | Argentina | Bolivia, Plurinational State of",ODA-eligible
+"Uruguay | Trinidad and Tobago | Peru | Paraguay | Panama | Mexico | Guyana | Ecuador | Dominican Republic | Curaçao | Costa Rica | Colombia | Chile | Brazil | Bolivia, Plurinational State of | Aruba | Argentina",ODA-eligible
+Vanuatu | Tonga | Fiji | Solomon Islands | Samoa,ODA-eligible
+"Venezuela, Bolivarian Republic of | Brazil | Ecuador | Colombia",ODA-eligible
+"Venezuela, Bolivarian Republic of | Colombia",ODA-eligible
+"Venezuela, Bolivarian Republic of | Colombia | Ecuador",ODA-eligible
+"Virgin Islands, British | Saint Kitts and Nevis | Turks and Caicos Islands | Sint Maarten (Dutch part) | Saint Martin (France) | Bahamas | Antigua and Barbuda | Anguilla (United Kingdom) | Saint Barthélemy (France)",ODA-eligible
+West Bank | Gaza Strip | occupied Palestinian territory,ODA-eligible
+West Bank | occupied Palestinian territory | Gaza Strip,ODA-eligible
+Yemen | Somalia | South Sudan | Nigeria,ODA-eligible
+"Yemen | Uganda | Tanzania, United Republic of | South Sudan | Somalia | Kenya | Ethiopia | Eritrea | Djibouti",ODA-eligible
+Zambia | Angola,ODA-eligible
+Zimbabwe | Mozambique | Malawi,ODA-eligible
+Anguilla (United Kingdom) | Antigua and Barbuda | Saint Barth�lemy (France),ODA-eligible
+Antigua and Barbuda | Bahamas | Sint Maarten (Dutch part),ODA-eligible
+Antigua and Barbuda | Bahamas | Saint Kitts and Nevis | Sint Maarten (Dutch part),ODA-eligible
+"Anguilla (United Kingdom) | Antigua and Barbuda | Bahamas | Saint Barth�lemy (France) | Saint Kitts and Nevis | Saint Martin (France) | Sint Maarten (Dutch part) | Turks and Caicos Islands | Virgin Islands, British",ODA-eligible
+Antigua and Barbuda | Saint Kitts and Nevis,ODA-eligible
+Channel Islands,Non-ODA eligible
+Ethiopia | South Sudan | Uganda,ODA-eligible
+Gaza Strip | West Bank | occupied Palestinian territory,ODA-eligible
+Guatemala | Honduras,ODA-eligible
+Jordan | Lebanon | Turkey,ODA-eligible
+Jordan | Lebanon,ODA-eligible
+Cuba | Dominica,ODA-eligible
+Libya | Tunisia,ODA-eligible
+Sweden | Uganda,ODA-eligible
+"Anguilla (United Kingdom) | Antigua and Barbuda | Bahamas | Barbados | Bonaire, Saint Eustatius and Saba (The Netherlands) | Cuba | Dominica | Dominican Republic | Guadeloupe (France) | Haiti | Martinique (France) | Montserrat | Puerto Rico (United States) | Saint Barth�lemy (France) | Saint Kitts and Nevis | Saint Lucia | Saint Martin (France) | Saint Vincent and the Grenadines | Sint Maarten (Dutch part) | Turks and Caicos Islands | Virgin Islands, British",ODA-eligible
+Nigeria | Somalia | South Sudan,ODA-eligible
+Chad | Sweden,ODA-eligible
+Argentina | Aruba | Brazil | Chile | Colombia | Costa Rica | Cura�ao | Dominican Republic | Ecuador | Guyana | Mexico | Panama | Peru | Trinidad and Tobago | Uruguay,ODA-eligible
+Eswatini | Lesotho | Namibia | South Africa | Zambia | Zimbabwe,ODA-eligible
+Argentina | Aruba | Brazil | Chile | Colombia | Costa Rica | Cura�ao | Dominican Republic | Ecuador | Guyana | Mexico | Panama | Paraguay | Peru | Trinidad and Tobago | Uruguay,ODA-eligible
+Guatemala | Honduras | Mexico,ODA-eligible
+"Colombia | Venezuela, Bolivarian Republic of",ODA-eligible
+"Congo, The Democratic Republic of the | Rwanda",ODA-eligible
+Djibouti | Ethiopia | Yemen,ODA-eligible
+Jordan | Lebanon | Syrian Arab Republic | Turkey,ODA-eligible
+Lebanon | Sudan | occupied Palestinian territory,ODA-eligible
+Ethiopia | Kenya | South Sudan | Sudan,ODA-eligible
+Kyrgyzstan | Tajikistan,ODA-eligible
+Brazil | Colombia | Ecuador | Guyana | Peru | Trinidad and Tobago,ODA-eligible
+Colombia | Peru,ODA-eligible
+"Brazil | Colombia | Venezuela, Bolivarian Republic of",ODA-eligible
+"Colombia | Ecuador | Venezuela, Bolivarian Republic of",ODA-eligible
+"Kenya | Tanzania, United Republic of | Uganda",ODA-eligible
+Bahamas | Cuba | Haiti | Jamaica,ODA-eligible
+Cameroon | Chad,ODA-eligible
+Cameroon | Chad | Niger | Nigeria,ODA-eligible
+Egypt | Iraq | Jordan | Lebanon | Syrian Arab Republic | Turkey,ODA-eligible
+Egypt | Iraq | Jordan | Lebanon | Turkey,ODA-eligible
+Egypt | Iraq | Jordan | Turkey,ODA-eligible
+Eritrea | Sudan,ODA-eligible
+Gambia | Guinea | Guinea-Bissau | Mali | Senegal,ODA-eligible
+"Iran, Islamic Republic of | Uganda",ODA-eligible
+Iraq | Sweden,ODA-eligible
+Jordan | Lebanon | Syrian Arab Republic,ODA-eligible
+Kenya | Uganda,ODA-eligible
+Morocco | Panama,ODA-eligible
+Niger | Nigeria,ODA-eligible
+Nigeria | Somalia | South Sudan | Yemen,ODA-eligible
+Egypt | Iraq | Lebanon | Turkey,ODA-eligible
+Andorra,Non-ODA eligible
+United Arab Emirates,Non-ODA eligible
+Afghanistan | Capital,ODA-eligible
+Afghanistan | Capital | Central Highland | Eastern | North Eastern | Northern | South Eastern | Southern | Western,ODA-eligible
+Afghanistan,ODA-eligible
+Antigua and Barbuda,ODA-eligible
+Anguilla (United Kingdom),Non-ODA eligible
+Albania,ODA-eligible
+Armenia,ODA-eligible
+Angola,ODA-eligible
+Argentina,ODA-eligible
+American Samoa,Non-ODA eligible
+Austria,Non-ODA eligible
+Australia,Non-ODA eligible
+Aruba,Non-ODA eligible
+Azerbaijan,ODA-eligible
+Bosnia and Herzegovina,ODA-eligible
+Barbados,Non-ODA eligible
+Bangladesh,ODA-eligible
+Belgium,Non-ODA eligible
+Burkina Faso,ODA-eligible
+Bulgaria,Non-ODA eligible
+Bahrain,Non-ODA eligible
+Burundi,ODA-eligible
+Benin,ODA-eligible
+Bermuda,Non-ODA eligible
+Brunei Darussalam,Non-ODA eligible
+"Bolivia, Plurinational State of",ODA-eligible
+Bolivia,ODA-eligible
+Brazil,ODA-eligible
+Bahamas,Non-ODA eligible
+Bhutan,ODA-eligible
+Botswana,ODA-eligible
+Belarus,ODA-eligible
+Belize,ODA-eligible
+Canada,Non-ODA eligible
+"Congo, The Democratic Republic of the",ODA-eligible
+"Congo, Democratic Republic of the",ODA-eligible
+Central African Republic,ODA-eligible
+Congo,ODA-eligible
+"Congo, Republic of",ODA-eligible
+Switzerland,Non-ODA eligible
+C�te d'Ivoire,ODA-eligible
+Cook Islands,ODA-eligible
+Chile,ODA-eligible
+Cameroon,ODA-eligible
+China,ODA-eligible
+Colombia,ODA-eligible
+Costa Rica,ODA-eligible
+Cuba,ODA-eligible
+Cape Verde,ODA-eligible
+Curacao,Non-ODA eligible
+Cura�ao,Non-ODA eligible
+Cyprus,Non-ODA eligible
+Czech Republic,Non-ODA eligible
+Germany,Non-ODA eligible
+Djibouti,ODA-eligible
+Denmark,Non-ODA eligible
+Dominica,ODA-eligible
+Dominican Republic,ODA-eligible
+Algeria,ODA-eligible
+Ecuador,ODA-eligible
+Estonia,Non-ODA eligible
+Egypt,ODA-eligible
+Western Sahara,Non-ODA eligible
+Eritrea,ODA-eligible
+Spain,Non-ODA eligible
+Ethiopia,ODA-eligible
+Finland,Non-ODA eligible
+Fiji,ODA-eligible
+"Micronesia, Federated States of",ODA-eligible
+Micronesia,ODA-eligible
+Faeroe Islands,Non-ODA eligible
+France,Non-ODA eligible
+Gabon,ODA-eligible
+United Kingdom ,Non-ODA eligible
+United Kingdom,Non-ODA eligible
+Grenada,ODA-eligible
+Georgia,ODA-eligible
+Ghana,ODA-eligible
+Greenland,Non-ODA eligible
+Gambia,ODA-eligible
+Guinea,ODA-eligible
+Equatorial Guinea,ODA-eligible
+Greece,Non-ODA eligible
+Guatemala,ODA-eligible
+Guam,Non-ODA eligible
+Guinea-Bissau,ODA-eligible
+Guyana,ODA-eligible
+Hong Kong Special Administrative Region of the People's Republic of China,Non-ODA eligible
+Honduras,ODA-eligible
+Croatia,Non-ODA eligible
+Haiti,ODA-eligible
+Hungary,Non-ODA eligible
+Indonesia,ODA-eligible
+Ireland,Non-ODA eligible
+Israel,Non-ODA eligible
+Isle of Man,Non-ODA eligible
+India,ODA-eligible
+Iraq,ODA-eligible
+"Iran, Islamic Republic of",ODA-eligible
+Iceland,Non-ODA eligible
+Italy,Non-ODA eligible
+Jamaica,ODA-eligible
+Jordan,ODA-eligible
+Japan,Non-ODA eligible
+Kenya,ODA-eligible
+Kyrgyzstan,ODA-eligible
+Cambodia,ODA-eligible
+Kiribati,ODA-eligible
+Comoros,ODA-eligible
+Saint Kitts and Nevis,Non-ODA eligible
+"Korea, Democratic People's Republic of",ODA-eligible
+"Korea, Republic of",Non-ODA eligible
+Kuwait,Non-ODA eligible
+Cayman Islands,Non-ODA eligible
+Kazakhstan,ODA-eligible
+Lao People's Democratic Republic,ODA-eligible
+Lebanon,ODA-eligible
+Saint Lucia,ODA-eligible
+Liechtenstein,Non-ODA eligible
+Sri Lanka,ODA-eligible
+Liberia,ODA-eligible
+Lesotho,ODA-eligible
+Lithuania,Non-ODA eligible
+Luxembourg,Non-ODA eligible
+Latvia,Non-ODA eligible
+Libya,ODA-eligible
+Morocco,ODA-eligible
+Monaco,Non-ODA eligible
+"Moldova, Republic of",ODA-eligible
+Montenegro,ODA-eligible
+Saint Martin (France),Non-ODA eligible
+St. Martin (French part),Non-ODA eligible
+Madagascar,ODA-eligible
+Marshall Islands,ODA-eligible
+"North Macedonia, Republic of",ODA-eligible
+"Macedonia, The Former Yugoslav Republic of",ODA-eligible
+Former Yugoslav Republic of Macedonia,ODA-eligible
+Mali,ODA-eligible
+Myanmar,ODA-eligible
+Mongolia,ODA-eligible
+"Macao SAR, China",Non-ODA eligible
+Northern Mariana Islands,Non-ODA eligible
+Mauritania,ODA-eligible
+Montserrat,ODA-eligible
+Malta,Non-ODA eligible
+Mauritius,ODA-eligible
+Maldives,ODA-eligible
+Malawi,ODA-eligible
+Mexico,ODA-eligible
+Malaysia,ODA-eligible
+Mozambique,ODA-eligible
+Namibia,ODA-eligible
+New Caledonia,Non-ODA eligible
+Niger,ODA-eligible
+Nigeria,ODA-eligible
+Nicaragua,ODA-eligible
+Netherlands,Non-ODA eligible
+Norway,Non-ODA eligible
+Nepal,ODA-eligible
+Niue,ODA-eligible
+New Zealand,Non-ODA eligible
+Oman,Non-ODA eligible
+Panama,ODA-eligible
+Peru,ODA-eligible
+French Polynesia,Non-ODA eligible
+Papua New Guinea,ODA-eligible
+Philippines,ODA-eligible
+Pakistan,ODA-eligible
+Poland,Non-ODA eligible
+Puerto Rico (United States),Non-ODA eligible
+Puerto Rico,Non-ODA eligible
+occupied Palestinian territory,ODA-eligible
+"Palestinian territory, occupied",ODA-eligible
+Portugal,Non-ODA eligible
+Palau,ODA-eligible
+Paraguay,ODA-eligible
+Qatar,Non-ODA eligible
+Romania,Non-ODA eligible
+Serbia,ODA-eligible
+Serbia and Montenegro (until 2006-2009),Non-ODA eligible
+Russian Federation,Non-ODA eligible
+Rwanda,ODA-eligible
+Saudi Arabia (Kingdom of),Non-ODA eligible
+Saudi Arabia,Non-ODA eligible
+Solomon Islands,ODA-eligible
+Seychelles,ODA-eligible
+Sudan,ODA-eligible
+Sweden,Non-ODA eligible
+Singapore,Non-ODA eligible
+"Saint Helena, Ascension and Tristan da Cunha",ODA-eligible
+Slovenia,Non-ODA eligible
+Slovakia,Non-ODA eligible
+Sierra Leone,ODA-eligible
+San Marino,Non-ODA eligible
+Senegal,ODA-eligible
+Somalia,ODA-eligible
+Suriname,ODA-eligible
+South Sudan,ODA-eligible
+S�o Tom� and Pr�ncipe,ODA-eligible
+Sao Tome and Principe,ODA-eligible
+El Salvador,ODA-eligible
+Sint Maarten (Dutch part),Non-ODA eligible
+Syrian Arab Republic,ODA-eligible
+Swaziland,ODA-eligible
+Eswatini,ODA-eligible
+Turks and Caicos Islands,Non-ODA eligible
+Chad,ODA-eligible
+Togo,ODA-eligible
+Thailand,ODA-eligible
+Tajikistan,ODA-eligible
+Timor-Leste,ODA-eligible
+Timor Leste,ODA-eligible
+Turkmenistan,ODA-eligible
+Tunisia,ODA-eligible
+Tonga,ODA-eligible
+Turkey,ODA-eligible
+Trinidad and Tobago,Non-ODA eligible
+Tuvalu,ODA-eligible
+"Taiwan, Province of China",Non-ODA eligible
+Chinese Taipei,Non-ODA eligible
+"Tanzania, United Republic of",ODA-eligible
+Ukraine,ODA-eligible
+Uganda,ODA-eligible
+United States,Non-ODA eligible
+United States of America,Non-ODA eligible
+Uruguay,ODA-eligible
+Uzbekistan,ODA-eligible
+Saint Vincent and the Grenadines,ODA-eligible
+"Venezuela, Bolivarian Republic of",ODA-eligible
+Venezuela,ODA-eligible
+Virgin Islands (U.S.),Non-ODA eligible
+Viet Nam,ODA-eligible
+Vanuatu,ODA-eligible
+Samoa,ODA-eligible
+Kosovo,ODA-eligible
+Yemen,ODA-eligible
+South Africa,ODA-eligible
+Zambia,ODA-eligible
+Zimbabwe,ODA-eligible
