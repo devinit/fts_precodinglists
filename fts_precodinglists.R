@@ -12,19 +12,16 @@ names(data) <- make.names(names(data))
 #removing FTS flow status pledge
 data2 <- subset(data, data$status %in% c('paid','commitment'))
 
-#removing columns that will not be used
-columns_to_remove = c(
-  "createdAt", "date", "decisionDate",
-  "firstReportedDate", "updatedAt", "versionId",
-  "refCode", "source_Organization_id", "source_Location_id",
-  "source_UsageYear_id", "destination_Organization_id", "destination_GlobalCluster_id",
-  "destination_Location_id", "destination_UsageYear_id", "destination_Plan_id",
-  "destination_Project_id", "destination_Plan_id", "destination_Cluster_id",
-  "destination_Emergency_id", "source_Emergency_id", "source_GlobalCluster_id",
-  "source_Cluster_id"
-)
+#selecting columns that will be used
+data <- subset(data, select = c("id","amountUSD","budgetYear","description",
+                                "flowType","newMoney","originalAmount","originalCurrency",
+                                "method","status","boundary","onBoundary","source_Organization_name",
+                                "source_Location_name","source_UsageYear_name","destination_Organization_name",
+                                "destination_GlobalCluster_name","destination_Location_name","destination_UsageYear_name",
+                                "destination_Plan_name","destination_Project_name","parentFlowId","grandBargainEarmarkingType",
+                                "source_Plan_id","source_Plan_name","destination_Cluster_name","destination_Emergency_name",
+                                "exchangeRate","source_Emergency_name","source_GlobalCluster_name"))
 
-data2[,columns_to_remove] <- NULL
 
 #changing FTS column headers to allign with the code
 if("source_Organization_name" %in% names(data2)){
@@ -61,26 +58,35 @@ character_replacements = list(
   c('Å"','ñ'), c("Å^","ò"), c("Å'","õ"),
   c("Å.","à"), c("Å>","o"), c("Å¯","ù"),
   c("Å±","û"), c("Ã¨","è"), c("Ã§","ç"),
-  c("Ã¸","ø"), c('â???"','-'), c("â???T","'"),
+  c("Ã¸","ø"), c('â???"','-'), c("â???T","’"),
   c("Ã®","î"), c("Ã±","ñ"), c("Ãª","ê"),
   c("Ã???","Ç"), c("Ã®","î"), c("Ã±","ñ"),
-  c("â???T","'"), c('â???"','-'), c('Ã"','Ä'),
+  c('â???"','-'), c('Ã"','Ä'),
   c("Ã","í"), c("Ã¯","ï"), c("í£","ã"),
-  c("í¯","ï"), c("í¦","æ"), c("í¥","å")
+  c("í¯","ï"), c("í¦","æ"), c("í¥","å"),
+  c("â???T","'"),c('â???"',"-"), c("í¦","à"),
+  c('Å"',"o"), c("Å,","à"), c('Å"',"à"),
+  c('â???"','-'),c("â???T","'"),c('â???"',"-"),
+  c('â???T',"'"), c('Å"',"à"), c('â€“',"-"),
+  c('â€™',"’")
 )
 
 for(character_replacement in character_replacements){
   from_character = character_replacement[1]
   to_character = character_replacement[2]
-  data2$Donor <- gsub(
+  data$Donor <- gsub(
     from_character,
     to_character,
-    data2$Donor
+    data$Donor,
+    ignore.case = FALSE, perl = FALSE,
+    fixed = TRUE, useBytes = FALSE
   )
-  data2$Recipient.Organization <- gsub(
+  data$Recipient.Organization <- gsub(
     from_character,
     to_character,
-    data2$Recipient.Organization
+    data$Recipient.Organization,
+    ignore.case = FALSE, perl = FALSE,
+    fixed = TRUE, useBytes = FALSE
   )
 }
 
