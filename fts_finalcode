@@ -177,16 +177,6 @@ data <- join(data, recipientcountryid, by='lower.Recipient.Organization', type='
 withoutRecipientID <- subset(data,is.na(recipientcountryid))
 unique(withoutRecipientID$Recipient.Organization)
 
-#Merge to create new column "Income group" based on destination country
-incomegroups <- read.csv("Final lists coded/incomegroups2020.csv",na.strings="",as.is=TRUE)
-data$lower.Destination.Country <- lowerConv(data$Destination.Country)
-incomegroups$lower.Destination.Country <- lowerConv(incomegroups$Destination.Country)
-incomegroups <- incomegroups[!duplicated(incomegroups$Destination.Country),]
-incomegroups$Destination.Country <- NULL 
-data <- join(data, incomegroups, by='lower.Destination.Country', type='left', match='all')
-
-withoutincome <- subset(data,is.na(incomegroups))
-unique(withoutincome$Destination.Country)
 
 #Merge to create new column "ODA eligible" based on destination country
 odaeligible <- read.csv("Final lists coded/odaeligible2020.csv",na.strings="",as.is=TRUE)
@@ -210,6 +200,21 @@ data <- join(data, destinationcountryid, by='lower.Destination.Country', type='l
 withoutDestinationcountryID <- subset(data,is.na(destinationcountryid))
 unique(withoutDestinationcountryID$Destination.Country)
 
+#Create new column "Destination country type"
+data$destinationcountrytype <- paste(data$destinationcountryid,data$source_UsageYear_name)
+data$destinationcountrytype[is.na(data$destinationcountrytype)] <- FALSE
+
+#Merge to create new column "Income group" based on destination country
+incomegroups <- read.csv("Final lists coded/incomegroups2020.csv",na.strings="",as.is=TRUE)
+data$lower.destinationcountrytype <- lowerConv(data$destinationcountrytype)
+incomegroups$lower.destinationcountrytype <- lowerConv(incomegroups$destinationcountrytype)
+incomegroups <- incomegroups[!duplicated(incomegroups$destinationcountrytype),]
+incomegroups$destinationcountrytype <- NULL 
+data <- join(data, incomegroups, by='lower.destinationcountrytype', type='left', match='all')
+
+withoutdestinationtype <- subset(data,is.na(incomegroups))
+unique(withoutincome$destinationcountrytype)
+
 #Create new column "Domestic" 
 data <- transform(data,domesticresponse='donorcountryid'=='data.destinationcountryid')
 data$domesticresponse[is.na(data$domesticresponse)] <- FALSE
@@ -229,6 +234,9 @@ unique(withoutdeflators$Donor)
 
 #Remove deflatortype column
 data$deflatortype <- NULL
+
+#Remove destinationcountrytype column
+data$lower.destinationcountrytype <- NULL
 
 #Remove lower.deflatortype column
 data$lower.deflatortype <- NULL
