@@ -7,7 +7,7 @@ library("dplyr")
 library("readxl")
 library("data.table")
 
-wd <- "S:/Projects/GHA/Phase IV/Projects/P0399 GHA Report 2020/Project content/Research and analysis/Scoping/Coding/R script/FTS API R"
+wd <- "C:/Users/danielem/Desktop/FTS API R"
 setwd(wd)
 
 data <- read.csv("all.csv")
@@ -177,7 +177,6 @@ data <- join(data, recipientcountryid, by='lower.Recipient.Organization', type='
 withoutRecipientID <- subset(data,is.na(recipientcountryid))
 unique(withoutRecipientID$Recipient.Organization)
 
-
 #Merge to create new column "ODA eligible" based on destination country
 odaeligible <- read.csv("Final lists coded/odaeligible2020.csv",na.strings="",as.is=TRUE)
 data$lower.Destination.Country <- lowerConv(data$Destination.Country)
@@ -216,12 +215,12 @@ withoutdestinationtype <- subset(data,is.na(incomegroups))
 unique(withoutincome$destinationcountrytype)
 
 #Create new column "Domestic" 
-data <- transform(data,domesticresponse='donorcountryid'=='data.destinationcountryid')
+data$domesticresponse <- ifelse(data$donorcountryid==data$destinationcountryid,TRUE,FALSE)
 data$domesticresponse[is.na(data$domesticresponse)] <- FALSE
 
 #Create new column "Deflator type"
 data$deflatortype <- paste(data$donorcountryid,data$source_UsageYear_name)
-data$deflatortype[is.na(data$deflatortype1)] <- FALSE
+data$deflatortype[is.na(data$deflatortype)] <- FALSE
 
 #Merge to create new column "Deflator" based on Deflator type
 deflators <- read.csv("Final lists coded/deflators2020.csv",na.strings="",as.is=TRUE)
@@ -237,6 +236,7 @@ data$deflatortype <- NULL
 
 #Remove destinationcountrytype column
 data$lower.destinationcountrytype <- NULL
+data$destinationcountrytype <- NULL
 
 #Remove lower.deflatortype column
 data$lower.deflatortype <- NULL
@@ -250,9 +250,4 @@ data$lower.Recipient.Organization <- NULL
 #Remove lower.Destination.Country column
 data$lower.Destination.Country <- NULL
 
-write.csv(data,"finalcoded.csv",na="",row.names=FALSE)
-
-# install.packages("data.table")
-library(data.table)
-donor.tab <- data.table(data)[,.(amountDeflatedMillions=sum(amountDeflatedMillions,na.rm=TRUE)),by=.(Donor,Flow.status)]
-write.csv(donor.tab,"donor_flow_status.csv", na="",row.names=FALSE)
+write.csv(data,"finalcoded2.csv",na="",row.names=FALSE)
