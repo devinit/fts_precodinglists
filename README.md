@@ -1,5 +1,5 @@
 #fts_precodinglists
-The fts_finalcode.R is used to merge the FTS database extracted from API with the CSV files that contains new variables to be added to the FTS database.
+The fts_finalcode.R is used to merge the FTS database extracted from API with the CSV files that contains new variables to be added to the FTS database. 
 
 #Prepare and clean the the database before merge the csv files
 We select only the appropriate flows from status ('paid' and 'commitment' contributions, excluding the pledges).
