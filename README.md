@@ -1,6 +1,6 @@
 # fts_precodinglists
 
-The fts_finalcode.R is used to join the FTS database extracted from API with the CSV files that contains new variables to be added to the new modified FTS database. The fts_precodinglists.R was only used to select new flows in the Donors, Recipient.Organisations and Destination.Country that were not incorporated in the CVS coding lists.
+The fts_finalcode.R is used to join the FTS database extracted from API with the CSV files that contain new variables to be added to the new modified FTS database. The fts_precodinglists.R was only used to select new flows in the Donors, Recipient.Organisations and Destination.Country that were not incorporated in the CVS coding lists.
 
 # Prepare and clean the the database before joining the csv files
 
