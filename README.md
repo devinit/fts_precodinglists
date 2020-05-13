@@ -1,14 +1,16 @@
-#fts_precodinglists
-The fts_finalcode.R is used to merge the FTS database extracted from API with the CSV files that contains new variables to be added to the FTS database. 
+# fts_precodinglists
 
-#Prepare and clean the the database before merge the csv files
-We select only the appropriate flows from status ('paid' and 'commitment' contributions, excluding the pledges).
+The fts_finalcode.R is used to join the FTS database extracted from API with the CSV files that contains new variables to be added to the new modified FTS database. The fts_precodinglists.R was only used to select new flows in the Donors, Recipient.Organisations and Destination.Country that were not incorporated in the CVS coding lists.
+
+# Prepare and clean the the database before joining the csv files
+
+We selected only the appropriate flows from status column ('paid' and 'commitment' contributions, excluding the pledges).
 
 ```R
 data <- subset(data, data$status %in% c('paid','commitment'))
 ```
 
-We also select the columns from the original database that is required in the final visualisation of the database
+We also selected the columns from the original database that are required in the final visualisation of the database
 
 ```R
 data <- subset(data, select = c("id","amountUSD","budgetYear","description",
@@ -21,7 +23,7 @@ data <- subset(data, select = c("id","amountUSD","budgetYear","description",
                                 "exchangeRate","source_Emergency_name","source_GlobalCluster_name"))
 ```
 
-Rename the source_Organization_name, destination_Organization_name and destination_Location_name to Donor, Recipient.Organization and Destination.Country, respectively. The cvs files will be join to the database by Donor, Recipient.Organization and Destination.Country.
+We renamed the source_Organization_name, destination_Organization_name and destination_Location_name to Donor, Recipient.Organization and Destination.Country, respectively. The cvs files will be join to the FTS database by Donor, Recipient.Organization and Destination.Country columns.
 
 ```R
 if("source_Organization_name" %in% names(data)){
@@ -29,13 +31,13 @@ if("source_Organization_name" %in% names(data)){
 }
 ```
 
-Remove ", Government of" of Donor and Recipient.Organization columns
+We Removed ", Government of" of Donor and Recipient.Organization columns to harmonise the name of the organisations with the cvs files.
 
 ```R
 data$Donor <- gsub(", Government of","",data$Donor)
 unique(data$Donor)
 ```
-Substitute the special to the foreign characters from Donor and Recipient.Organization columns
+We substituted the special characters to the foreign characters from Donor and Recipient.Organization columns
 
 ```R
 character_replacements = list(
@@ -79,7 +81,7 @@ for(character_replacement in character_replacements){
 }
 ```
 
-#Join the CVS to the FTS database
+# Join the CVS to the FTS database
 
 The following CVS files are linked to the FTS database by the Donor column: codenames2020, privatemoney2020, dacregion2020 and donorscountryid2020.
 The following CVS files are linked to the FTS database by the Recipient.Organization column: recipientcodename2020, ngotype2020, deliverychannels2020 and recipientcountryid2020.
@@ -96,7 +98,7 @@ withoutngos <- subset(data,is.na(ngotype))
 unique(withoutngos$Recipient.Organization)
 ```
 
-#create extra columns based on the existing final columns
+# Create extra columns based on the existing final columns
 
 Domestic response is TRUE when donor country id is equal to the destination country id. When both columns are balnk, I consider it as non-domestic response (FALSE)
 
@@ -105,14 +107,15 @@ data$domesticresponse <- ifelse(data$donorcountryid==data$destinationcountryid,T
 data$domesticresponse[is.na(data$domesticresponse)] <- FALSE
 ```
 
-Create the column Deflator type merging the column Source_Usage_Year_name and donor country id
+We created the column Deflator type merging the data from the columns Source_UsageYear_name and donorcountryid
 
 ```R
 data$deflatortype <- paste(data$donorcountryid,data$source_UsageYear_name)
 data$deflatortype[is.na(data$deflatortype)] <- FALSE
 ```
 
-#Merge deflator file and deflate amount USD values
+# Merge deflator file and deflate amount USD values
+
 The deflators2020 (csv file) is linked to the deflatortype column and the calculation are conduct according to the following code line:
 
 ```R
@@ -125,8 +128,8 @@ withoutdeflators <- subset(data,is.na(deflators))
 unique(withoutdeflators$Donor)
 ```
 
-#Exclude the columns that are not necessary in the final file
+# Exclude the columns that are not necessary in the final file
 
-Exclude the following columns: deflatortype, lower.destinationcountrytype, destinationcountrytype, lower.deflatortype, lower.Donor and lower.Recipient.Organization.
+We excluded the following columns: deflatortype, lower.destinationcountrytype, destinationcountrytype, lower.deflatortype, lower.Donor and lower.Recipient.Organization.
 
 
